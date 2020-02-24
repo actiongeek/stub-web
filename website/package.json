@@ -146,7 +146,7 @@
     "react-transition-group": "^1.2.1",
     "react-waypoint": "8.0.0",
     "slick-carousel": "^1.7.1",
-    "swagger-ui": "^3.18.1",
+    "swagger-ui": "^3.23.11",
     "tlds": "^1.187.0"
   },
   "keywords": []
