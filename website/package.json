@@ -83,7 +83,7 @@
     "keen-js": "^4.3.0",
     "lodash": "^4.17.11",
     "lodash.assign": "^4.1.0",
-    "marked": "^0.5.2",
+    "marked": "^0.7.0",
     "moment": "^2.22.2",
     "moment-timezone": "^0.5.21",
     "nuka-carousel": "^4.3.5",
